@@ -61,6 +61,18 @@
 		"Description":	"An alternate version of Sonic has arrived at angel island without overriding Sonic. He can use a Double jump, in-air accelleration & The Strike dash to help him out on the adventure.",
 		"URL":			"https://sonic3air.boards.net/thread/572/extra-slot-ms-sonic",
 		"ModVersion":	"1.0"
+
+         /* --- Extra Slot Feels/Max/Reto--- */
+	  "102": {
+
+		  "Name":			"Extra Slot Feels/Max/Reto",
+		"Author":		"Jaboy23",
+		"Description":	"Feels/Max/Reto appears as an extra character without overriding Sonic.",
+		"URL":			"https://gamebanana.com/wips/79826",
+		"ModVersion":	"1.0"
+
+
+		
 	},
 
 	
@@ -127,7 +139,8 @@
 	"66":	{ "ReservedBy": "Zama#2873" }, 			// Blaze the Cat 
 
 	"67":	{ "ReservedBy": "soincdeglitcher" }, 		// Woodified Sonic
-	
+
+	"69"    { "ReservedBy":  "Jaboy23"        },            // ESU Charmy
 	"73":	{ "ReservedBy":	"blu32x" },			// The Noise
 	
 	"77":	{ "ReservedBy":	"Parliament#8647" },		// TBD
@@ -152,7 +165,7 @@
 	"99":	{ "ReservedBy":	"Jester Sam#0809" },		// C.H.C. Jester
 	
 	"100":	{ "ReservedBy":	"SAMPL#1873" },			// Ashuro the badger 
-	
+	"102"   { "ReservedBy": "Jaboy23     },                 //Extra Slot Feels/Max/Reto
 	"105":	{ "ReservedBy": "BlueHotMess" },		// ES Template
 	"106":	{ "ReservedBy": "BlueHotMess"},			// ES Template
 	"107":	{ "ReservedBy": "BlueHotMess"},			// ES Template
